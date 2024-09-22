@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohdarish91055/react_calculator/static/css/main.744469c1.css",
+    "main.js": "/mohdarish91055/react_calculator/static/js/main.2f97e9d2.js",
+    "index.html": "/mohdarish91055/react_calculator/index.html",
+    "main.744469c1.css.map": "/mohdarish91055/react_calculator/static/css/main.744469c1.css.map",
+    "main.2f97e9d2.js.map": "/mohdarish91055/react_calculator/static/js/main.2f97e9d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744469c1.css",
+    "static/js/main.2f97e9d2.js"
+  ]
+}
